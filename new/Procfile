@@ -1,1 +1,1 @@
-web: python youtube_downloader.py
+web: gunicorn app:app
